@@ -19,7 +19,7 @@
   <img align="center" alt="James-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="James-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="James-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rob-SQL" height="50" widtg="50" src = "https://image.flaticon.com/icons/png/512/1088/1088856.png">
+  <img align="center" alt="James-SQL" height="50" widtg="50" src = "https://image.flaticon.com/icons/png/512/1088/1088856.png">
 
 
   
