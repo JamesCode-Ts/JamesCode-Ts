@@ -1,4 +1,4 @@
-Olá, meu nome é Tiago Santana.
+# Olá, meu nome é Tiago Santana.
 
 Sou estudante de Ciência da Computação e desenvolvedor Full-Stack.
 
