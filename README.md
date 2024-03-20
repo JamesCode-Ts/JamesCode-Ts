@@ -1,6 +1,6 @@
 Olá, meu nome é Tiago Santana.
 
-Sou estudante de Ciência da Computação e desenvolvedor full-Stack.
+Sou estudante de Ciência da Computação e desenvolvedor Full-Stack.
 
 Meu ecossistema de desenvolvimento para Back-end é em Java e Front-end em Angular. 
 <div style="display: inline_block"><br>
