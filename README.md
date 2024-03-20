@@ -1,14 +1,12 @@
 Olá, meu nome é Tiago Santana.
 
-Sou estudante de Ciencia da Computação e desenvolvedor full-Stack.
+Sou estudante de Ciência da Computação e desenvolvedor full-Stack.
 
 Meu ecossistema de desenvolvimento para Back-end é em Java e Front-end em Angular. 
-
-
 <div style="display: inline_block"><br>
-
+ 
  Habilidades principais em tecnologias:
-
+ 
   <img align="center" alt="James-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="James-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="James-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
