@@ -2,7 +2,7 @@
 
 Meu nome é Tiago Santana, um entusiasta da programação.
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 - 👨‍💻 Atualmente estou a procura do meu primeiro emprego como desenvolvedor de software.
 - 🌱 Estou constantemente aprendendo e melhorando minhas habilidades.
