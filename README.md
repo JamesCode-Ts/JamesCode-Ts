@@ -9,7 +9,7 @@ Meu nome é Tiago Santana, um entusiasta da programação.
 - 💡 Adoro explorar novas tecnologias e desenvolver projetos interessantes.
 - 📚 Sou estudante de Ciência da Computação e desenvolvedor Full-Stack.
   
-#### 💻 Meu ecossistema de desenvolvimento para Back-end é em Java e Front-end em Angular. 
+- ####  💻 Meu ecossistema de desenvolvimento para Back-end é em Java e Front-end em Angular. 
 <div style="display: inline_block"><br>
  
  Habilidades principais em tecnologias:
