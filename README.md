@@ -2,7 +2,7 @@
 
 Meu nome é Tiago Santana, um entusiasta da programação.
 
-##  Sobre Mim
+##  Sobre Mim 
 
 - 👨‍💻 Atualmente estou em busca de um emprego como desenvolvedor de software.
 - 🌱 Estou constantemente aprendendo e melhorando minhas habilidades.
@@ -38,15 +38,14 @@ Meu nome é Tiago Santana, um entusiasta da programação.
 </div>
 
 
+ 
 ### 📌 Projetos em Destaque
 
 <a href="https://github.com/JamesCode-Ts/portifolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JamesCode-Ts&repo=portifolio&theme=dark" />
 </a>
 
+ - #### [README in English](README-en.md)
 
-
-
--[README in English](README-en.md)
 
 
