@@ -44,6 +44,7 @@ Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software e po
 
 Meu perfil une **soluções de desenvolvimento robustas** com uma **visão de segurança ofensiva**, sempre pensando em **como proteger melhor o que estou construindo**. </br>
 Isso me permite desenvolver sistemas seguros, com entendimento que abrange tanto a codificação quanto a identificação de potenciais vetores de ataque.
+</br>
 
 ### 🛡️ Segurança Ofensiva / Ethical Hacking:
 
@@ -53,6 +54,8 @@ Isso me permite desenvolver sistemas seguros, com entendimento que abrange tanto
 - **Análise de Vulnerabilidades com foco ofensivo**
 - **Utilização de ferramentas como Burp Suite, Nmap, etc**
 - **Certificação:** Solyd Certified Pentester (SYCP)
+
+ </br>
 
 
 <div>
