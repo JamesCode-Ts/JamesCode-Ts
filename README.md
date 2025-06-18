@@ -1,16 +1,19 @@
 ### Olá, 
 
-Meu nome é Tiago Santana, um entusiasta da programação.
+Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software e por segurança ofensiva.
 
-##  Sobre Mim 
 
-- 👨‍💻 Atualmente estou em busca de um emprego como desenvolvedor de software.
-- 🌱 Estou constantemente aprendendo e melhorando minhas habilidades.
-- 💡 Adoro explorar novas tecnologias e desenvolver projetos interessantes.
-- 📚 Sou estudante de Ciência da Computação e desenvolvedor Full-Stack.
+## 👨‍💻 Sobre Mim
+
+- 🎯 Atualmente, estou em busca de novas oportunidades como **Desenvolvedor de Software Full-Stack**.
+- 📚 Formando em **Ciência da Computação**.
+- 💻 Meu foco principal é no desenvolvimento **Back-end com Java (Spring Boot)** e **Front-end com Angular**.
+- 🌱 Sempre aprendendo e buscando aprimorar minhas habilidades tanto no desenvolvimento quanto na **Segurança da Informação**.
   
 - ####  💻 Meu ecossistema de desenvolvimento para Back-end é em Java e Front-end em Angular. 
 <div style="display: inline_block"><br>
+
+
  
  Habilidades principais em tecnologias:
  
@@ -34,12 +37,23 @@ Meu nome é Tiago Santana, um entusiasta da programação.
    <img align="center" alt="James-SQL" height="50" widtg="50" src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
    <img align="center" alt="James-SQL" height="50" widtg="50" src = "https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
 
-
-  
    
 </div>
 
 <br>
+
+Meu perfil une **soluções de desenvolvimento robustas** com uma **visão de segurança ofensiva**, sempre pensando em **como proteger melhor o que estou construindo**. </br>
+Isso me permite desenvolver sistemas seguros, com entendimento que abrange tanto a codificação quanto a identificação de potenciais vetores de ataque.
+
+### 🛡️ Segurança Ofensiva / Ethical Hacking:
+
+- **Pentest Web e Infraestrutura**
+- **Exploração de Vulnerabilidades (OWASP Top 10)**
+- **Bypass de WAFs (Cloudflare)**
+- **Análise de Vulnerabilidades com foco ofensivo**
+- **Utilização de ferramentas como Burp Suite, Nmap, etc**
+- **Certificação:** Solyd Certified Pentester (SYCP)
+
 
 <div>
   <a href="https://github.com/JamesCode-Ts">
