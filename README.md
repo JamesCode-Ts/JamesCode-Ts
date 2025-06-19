@@ -6,7 +6,7 @@ Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software e po
 ## 👨‍💻 Sobre Mim
 
 - 🎯 Atualmente, estou em busca de novas oportunidades como **Desenvolvedor de Software Full-Stack**.
-- 📚 Graduando em **Ciência da Computação**.
+- 📚 Formando em **Ciência da Computação**.
 - 💻 Meu foco principal é no desenvolvimento **Back-end com Java (Spring Boot)** e **Front-end com Angular**.
 - 🌱 Sempre aprendendo e buscando aprimorar minhas habilidades tanto no desenvolvimento quanto na **Segurança da Informação**.
   
