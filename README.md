@@ -1,14 +1,14 @@
 ### Olá, 
 
-Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software e por segurança ofensiva.
+Sou apaixonado por tecnologia, com foco em desenvolvimento de software e interesse especial em segurança ofensiva.
 
 
 ## 👨‍💻 Sobre Mim
 
 - 🎯 Atualmente, estou em busca de novas oportunidades como **Desenvolvedor de Software Full-Stack**.
 - 📚 Formando em **Ciência da Computação**.
-- 💻 Meu foco principal é no desenvolvimento **Back-end com Java (Spring Boot)** e **Front-end com Angular**.
-- 🌱 Sempre aprendendo e buscando aprimorar minhas habilidades tanto no desenvolvimento quanto na **Segurança da Informação**.
+- 💻 Atuo principalmente com **Back-end com Java (Spring Boot)** e **Front-end com Angular**.
+- 🌱 Em constante aprimoramento, buscando evoluir tanto no desenvolvimento de software quanto na **Segurança da Informação**.
   
 - ####  💻 Meu ecossistema de desenvolvimento para Back-end é em Java e Front-end em Angular. 
 <div style="display: inline_block"><br>
